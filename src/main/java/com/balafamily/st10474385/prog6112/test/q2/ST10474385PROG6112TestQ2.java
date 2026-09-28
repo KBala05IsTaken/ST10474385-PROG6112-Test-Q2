@@ -20,6 +20,6 @@ public class ST10474385PROG6112TestQ2
         System.out.println("3) SWITCH");
         ConsoleType = scnInput.next();
         scnInput.next();
-        ConsoleSales obj = new ConsoleSales(ConsoleType, Store, TotalSales);
+        
     }
 }
